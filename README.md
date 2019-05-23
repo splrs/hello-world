@@ -1,2 +1,4 @@
 # hello-world
-A repo I created (to attempt to learn Git(Hub) again)
+A repo splrs created (to attempt to learn Git(Hub) again).
+
+Here's a bit more text in addition to the edits above.
